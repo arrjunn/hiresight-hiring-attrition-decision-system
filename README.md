@@ -23,16 +23,17 @@ The repository is organized to reflect the full decision pipeline — from data 
 hiresight-hiring-attrition-decision-system/
 ├── README.md
 ├── notebooks/
-│ ├── 01_problem_and_data_understanding.ipynb
-│ ├── 02_attrition_prediction_model.ipynb
-│ └── 03_decision_logic_and_insights.ipynb
+│   ├── 01_problem_and_data_understanding.ipynb
+│   ├── 02_attrition_prediction_model.ipynb
+│   └── 03_decision_logic_and_insights.ipynb
 ├── dashboards/
-│ ├── powerbi_overview.png
-│ └── tableau_attrition_analysis.png
+│   ├── powerbi_overview.png
+│   └── tableau_attrition_analysis.png
 ├── slides/
-│ └── hiresight_case_study.pdf
+│   └── README.md
 ├── assumptions.md
 └── requirements.txt
+
 
 
 **Folder intent**
