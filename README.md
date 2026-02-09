@@ -14,6 +14,8 @@ This project connects hiring and retention as one system by:
 - Modeling attrition risk using early employee signals
 - Identifying dominant drivers like work-life harmony and managerial clarity
 - Translating predictions into interpretable decision insights
+- Validates model insights using Power BI and Tableau dashboards to support decision-making
+
 
 ## What’s inside
 - Predictive attrition model (Random Forest)
